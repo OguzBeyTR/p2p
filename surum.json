@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "notlar": "Güncelleme güvenliği düzeltildi (eski sürümlerin bozulması engellendi).",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.8/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.8/OguzBeyTR-P2P-tek.exe"
+  "version": "1.9",
+  "notlar": "Klasör gönderiminde tek ilerleme çubuğu; bildirime/tepsi simgesine tıklayınca pencere açılır; kısayol ikonu.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.9/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.9/OguzBeyTR-P2P-tek.exe"
 }
