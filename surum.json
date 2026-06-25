@@ -1,5 +1,6 @@
 {
   "version": "1.6",
-  "notlar": "Onefile kalıntısı kaldırıldı; eski sürümler otomatik klasör yapısına geçer (DLL hatası biter). Gelen dosya modu hatırlanır. Çevrimiçi/Kapalı modda arka planda bildirim eklendi.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.6/OguzBeyTR-P2P.zip"
+  "notlar": "Eski sürümler güncellemeye devam edsin diye düzeltme; gelen dosya modu hatırlanır; arka planda bildirimler (çevrimiçi: dosya geldi / kapalı: gelemedi).",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.6/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.6/OguzBeyTR-P2P-tek.exe"
 }
