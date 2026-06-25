@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.2/OguzBeyTR-P2P.exe",
-  "notlar": "Tek örnek: zaten açıkken tekrar açınca mevcut pencere öne gelir. Biten barlar artık sadece Temizle'ye basınca silinir; otomatik temizlemeyi açan kutucuk eklendi."
+  "version": "1.3",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.3/OguzBeyTR-P2P.exe",
+  "notlar": "Güncelleme hatası düzeltildi (artık gerçekten güncelliyor), Gönder'de çoklu dosya + sürükle-bırak, Arkadaşlar'da Gelen Klasör butonu, son sekme hatırlanır, Windows'la başlat ayarı program içinde."
 }
