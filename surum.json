@@ -1,5 +1,6 @@
 {
   "version": "1.5",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.5/OguzBeyTR-P2P.zip",
-  "notlar": "Açılış hatası (Python DLL) düzeltildi - klasör kurulumuna geçildi, daha hızlı ve sağlam. Klasör gönderme eklendi. Aktarım sürerken güncelleme ertelenir (dosya iptal olmaz)."
+  "notlar": "Açılış hatası (Python DLL) düzeltildi - klasör kurulumuna geçildi (daha hızlı/sağlam). Klasör gönderme eklendi. Aktarım sürerken güncelleme ertelenir (dosya iptal olmaz).",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.5/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.5/OguzBeyTR-P2P-tek.exe"
 }
