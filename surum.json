@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.3/OguzBeyTR-P2P.exe",
-  "notlar": "Güncelleme hatası düzeltildi (artık gerçekten güncelliyor), Gönder'de çoklu dosya + sürükle-bırak, Arkadaşlar'da Gelen Klasör butonu, son sekme hatırlanır, Windows'la başlat ayarı program içinde."
+  "version": "1.4",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.4/OguzBeyTR-P2P.exe",
+  "notlar": "Program ikonu eklendi (pencere, görev çubuğu, sistem tepsisi, kurulum)."
 }
