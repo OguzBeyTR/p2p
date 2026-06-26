@@ -1,6 +1,6 @@
 {
-  "version": "1.10",
-  "notlar": "Çift güncelleme engellendi; kurulum artık Defender istisnasını otomatik ekleyebiliyor (DLL silinme sorunu için).",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.10/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.10/OguzBeyTR-P2P-tek.exe"
+  "version": "1.11",
+  "notlar": "Yeni: İndir sekmesi — YouTube/Instagram MP3-MP4 indirme (toplu, kalite seçimi). ffmpeg ilk indirmede otomatik gelir.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.11/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.11/OguzBeyTR-P2P-tek.exe"
 }
