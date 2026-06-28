@@ -1,6 +1,6 @@
 {
-  "version": "1.11",
-  "notlar": "Yeni: İndir sekmesi — YouTube/Instagram MP3-MP4 indirme (toplu, kalite seçimi). ffmpeg ilk indirmede otomatik gelir.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.11/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.11/OguzBeyTR-P2P-tek.exe"
+  "version": "1.12",
+  "notlar": "Yeni: Sohbet sekmesi — çevrimiçi arkadaşları gör (yeşil nokta) ve anlık mesajlaş.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.12/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.12/OguzBeyTR-P2P-tek.exe"
 }
