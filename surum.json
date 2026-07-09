@@ -1,6 +1,6 @@
 {
-  "version": "1.15",
-  "notlar": "Guncelleme sonrasi 'Failed to load Python DLL' hatasi tamamen cozuldu: tek-dosya kurulumlar artik klasorlu yapiya donusturuluyor (exe her acilista kendini Temp klasorune acmiyor, antivirus araya giremiyor). Guncel kullanicilar da otomatik klasorlu yapiya gecer.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.15/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.15/OguzBeyTR-P2P-tek.exe"
+  "version": "1.16",
+  "notlar": "Guncelleme sonrasi DLL hatasi ve 'melez kurulum' sorunu kalici cozuldu. Donusum artik acik kalan tum kopyalari kapatip exe kilidini aciyor (yarim kalma yok); kurulum bicimi gercek calisma bicimine gore belirleniyor, yarim kalmis kurulumlar kendini onariyor.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.16/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.16/OguzBeyTR-P2P-tek.exe"
 }
