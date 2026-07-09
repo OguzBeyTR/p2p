@@ -1,6 +1,6 @@
 {
-  "version": "1.14",
-  "notlar": "Indirici duzeltmeleri: MP4'ler artik Premiere ve Windows oynaticiyla uyumlu (H.264+AAC) iniyor; Instagram/Twitter indirme sorunlari giderildi (tarayici taklidi + guncel yt-dlp). Arkadas kayitlari kendini onariyor: arkadasin IP'si degisse bile ping/mesaj/dosyadan guncel adresi ogrenilir - 'gonderemiyorum' sorunu cozumu.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.14/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.14/OguzBeyTR-P2P-tek.exe"
+  "version": "1.15",
+  "notlar": "Guncelleme sonrasi 'Failed to load Python DLL' hatasi tamamen cozuldu: tek-dosya kurulumlar artik klasorlu yapiya donusturuluyor (exe her acilista kendini Temp klasorune acmiyor, antivirus araya giremiyor). Guncel kullanicilar da otomatik klasorlu yapiya gecer.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.15/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.15/OguzBeyTR-P2P-tek.exe"
 }
