@@ -1,6 +1,6 @@
 {
-  "version": "1.18",
-  "notlar": "YENI: Hesap sistemi geldi. Artik kullanici adi + sifre ile giris yapiliyor; arkadaslari IP kodu yerine KULLANICI ADIYLA ekliyorsun. Arkadasin adresi degisse bile otomatik bulunur ('gonderemiyorum' sorununun kokten cozumu). Hesapsiz da kullanilabilir (Simdilik atla -> eski kod ile gonder/al). Pencere buyutuldu.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.18/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.18/OguzBeyTR-P2P-tek.exe"
+  "version": "1.19",
+  "notlar": "YENI: Sohbette foto ve GIF gonderme. 'Sohbet' sekmesinde arkadas sec, mesaj yaninda ataç (paperclip) dugmesiyle resim/GIF sec ya da surukle-birak. Resimler sohbette gorunur, GIF'ler oynar, tiklayinca tam boyut acilir. (Dogrudan P2P, kayit sunucusuna yuklenmez.)",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.19/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.19/OguzBeyTR-P2P-tek.exe"
 }
