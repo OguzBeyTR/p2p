@@ -1,6 +1,6 @@
 {
-  "version": "1.16",
-  "notlar": "Guncelleme sonrasi DLL hatasi ve 'melez kurulum' sorunu kalici cozuldu. Donusum artik acik kalan tum kopyalari kapatip exe kilidini aciyor (yarim kalma yok); kurulum bicimi gercek calisma bicimine gore belirleniyor, yarim kalmis kurulumlar kendini onariyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.16/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.16/OguzBeyTR-P2P-tek.exe"
+  "version": "1.17",
+  "notlar": "Pencere boyutu buyutuldu: alttaki dugmeler ve tuslar artik tam gorunuyor (600x760).",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.17/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.17/OguzBeyTR-P2P-tek.exe"
 }
