@@ -1,6 +1,6 @@
 {
-  "version": "1.17",
-  "notlar": "Pencere boyutu buyutuldu: alttaki dugmeler ve tuslar artik tam gorunuyor (600x760).",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.17/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.17/OguzBeyTR-P2P-tek.exe"
+  "version": "1.18",
+  "notlar": "YENI: Hesap sistemi geldi. Artik kullanici adi + sifre ile giris yapiliyor; arkadaslari IP kodu yerine KULLANICI ADIYLA ekliyorsun. Arkadasin adresi degisse bile otomatik bulunur ('gonderemiyorum' sorununun kokten cozumu). Hesapsiz da kullanilabilir (Simdilik atla -> eski kod ile gonder/al). Pencere buyutuldu.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.18/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.18/OguzBeyTR-P2P-tek.exe"
 }
