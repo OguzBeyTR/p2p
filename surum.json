@@ -1,6 +1,6 @@
 {
-  "version": "1.19",
-  "notlar": "YENI: Sohbette foto ve GIF gonderme. 'Sohbet' sekmesinde arkadas sec, mesaj yaninda ataç (paperclip) dugmesiyle resim/GIF sec ya da surukle-birak. Resimler sohbette gorunur, GIF'ler oynar, tiklayinca tam boyut acilir. (Dogrudan P2P, kayit sunucusuna yuklenmez.)",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.19/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.19/OguzBeyTR-P2P-tek.exe"
+  "version": "1.20",
+  "notlar": "ONEMLI DUZELTME: Giris/kayit 'Baglaniliyor' takilmasi cozuldu. Sertifika dogrulamasi artik paketteki certifi ile yapiliyor (Windows deposunun cevrimici iptal sorgusu bazi aglarda takiliyordu). Ayrica giris 15 sn'de yanit gelmezse net hata gosterir, sonsuza dek beklemez. Arkadaslarin da artik sorunsuz giris yapmali.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.20/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.20/OguzBeyTR-P2P-tek.exe"
 }
