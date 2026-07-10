@@ -1,6 +1,6 @@
 {
-  "version": "1.20",
-  "notlar": "ONEMLI DUZELTME: Giris/kayit 'Baglaniliyor' takilmasi cozuldu. Sertifika dogrulamasi artik paketteki certifi ile yapiliyor (Windows deposunun cevrimici iptal sorgusu bazi aglarda takiliyordu). Ayrica giris 15 sn'de yanit gelmezse net hata gosterir, sonsuza dek beklemez. Arkadaslarin da artik sorunsuz giris yapmali.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.20/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.20/OguzBeyTR-P2P-tek.exe"
+  "version": "1.21",
+  "notlar": "Duzeltme + yenilik: 1) Arkadas ekleme sorunu cozuldu - test sirasinda hesaplar yanlislikla sifirlanmisti, ayrica program gecersiz oturumu 'girisli' saniyordu; artik oturum acilista sunucuyla dogrulanir, gecersizse giris penceresi acilir. HERKES BIR KEZ YENIDEN KAYIT OLMALI (ayni kullanici adiyla olabilir). 2) Modern koyu tasarim (Discord tarzi renkler). 3) Giris penceresi son kullanici adini hatirlar.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.21/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.21/OguzBeyTR-P2P-tek.exe"
 }
