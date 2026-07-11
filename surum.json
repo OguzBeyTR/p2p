@@ -1,6 +1,6 @@
 {
-  "version": "1.22",
-  "notlar": "ONEMLI DUZELTME: Giris/kayit 'Baglaniliyor' takilmasi TAMAMEN cozuldu. Sorun agda degil, giris penceresinin arayuzu guncelleme bicimindeydi (donmus surumde takiliyordu). Artik guvenli yontemle calisiyor - frozen exe icinde otomatik test ile dogrulandi. Giris/kayit aninda calismali.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.22/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.22/OguzBeyTR-P2P-tek.exe"
+  "version": "1.23",
+  "notlar": "YENI - GRUPLAR (Asama 3): Sohbet sekmesinde artik grup kurabilirsin. Sol ustteki '+ Grup' ile grup ac, '👤+' ile gruba arkadas ekle (sadece grubu kuran ekler). Grup mesajlari ve resim/GIF tum uyelere dogrudan gider (P2P). Gonderen adi grupta gorunur.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.23/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.23/OguzBeyTR-P2P-tek.exe"
 }
