@@ -1,6 +1,6 @@
 {
-  "version": "1.23",
-  "notlar": "YENI - GRUPLAR (Asama 3): Sohbet sekmesinde artik grup kurabilirsin. Sol ustteki '+ Grup' ile grup ac, '👤+' ile gruba arkadas ekle (sadece grubu kuran ekler). Grup mesajlari ve resim/GIF tum uyelere dogrudan gider (P2P). Gonderen adi grupta gorunur.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.23/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.23/OguzBeyTR-P2P-tek.exe"
+  "version": "1.24",
+  "notlar": "YENI - SESLI ARAMA (Asama 4): Sohbet sekmesinde bir arkadas secip telefon (call) dugmesine basinca sesli arama baslar. Karsi tarafa 'Kabul/Reddet' penceresi cikar. Gorusme sirasinda ustte cubuk: mikrofon ac/kapa, ses (kulaklik) ac/kapa, Kapat ve sure. Ses dogrudan gider (P2P), Opus kodek ile net ve dusuk internet kullanir. Not: en iyi deneyim icin kulaklik kullanin (yanki olmasin).",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.24/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.24/OguzBeyTR-P2P-tek.exe"
 }
