@@ -1,6 +1,6 @@
 {
-  "version": "1.24",
-  "notlar": "YENI - SESLI ARAMA (Asama 4): Sohbet sekmesinde bir arkadas secip telefon (call) dugmesine basinca sesli arama baslar. Karsi tarafa 'Kabul/Reddet' penceresi cikar. Gorusme sirasinda ustte cubuk: mikrofon ac/kapa, ses (kulaklik) ac/kapa, Kapat ve sure. Ses dogrudan gider (P2P), Opus kodek ile net ve dusuk internet kullanir. Not: en iyi deneyim icin kulaklik kullanin (yanki olmasin).",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.24/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.24/OguzBeyTR-P2P-tek.exe"
+  "version": "1.25",
+  "notlar": "YENI - SES AYARLARI (Asama 5): Sag ustteki 'Ses Ayarlari' ile: 1) Bas-konus modu - bir tusa (bosluk/ctrl/vb, secilebilir) basili tutunca konusursun (telsiz gibi), acik mikrofon yerine. 2) Gurultu engelleme - fan/klavye/ugultu gibi arka plan seslerini azaltir (gecikmesiz). 3) Mikrofon ve hoparlor cihazi secimi. Gorusme kalitesi ve rahatligi arttI.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.25/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.25/OguzBeyTR-P2P-tek.exe"
 }
