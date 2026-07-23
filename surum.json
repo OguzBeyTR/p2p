@@ -1,6 +1,6 @@
 {
-  "version": "1.26",
-  "notlar": "Duzeltme + yeni: 1) GUNCELLEME SORUNU cozuldu - buyuk surum (ses ozellikleri) sonrasi guncelleme 'basarisiz/geri dondu' hatasi veriyordu; artik exe'nin duzgun acildigi daha guvenilir ve uzun (cold-start icin) dogrulaniyor. 2) Gurultu engelleme SEVIYESI eklendi (Ses Ayarlari > Hafif/Orta/Guclu) ve acip-kapatilabiliyor. Not: bu surumu ALDIKTAN SONRAKI guncellemeler sorunsuz olacak.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.26/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.26/OguzBeyTR-P2P-tek.exe"
+  "version": "1.27",
+  "notlar": "v1.27 - Ters baglanti (CGNAT cozumu): erisilemeyen arkadaslara mesaj, dosya ve sesli arama artik ulasiyor. Baglanti kurulamazsa karsi taraf otomatik geri baglanir; veri yine dogrudan P2P gider.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.27/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.27/OguzBeyTR-P2P-tek.exe"
 }
