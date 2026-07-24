@@ -1,6 +1,6 @@
 {
-  "version": "1.27",
-  "notlar": "v1.27 - Ters baglanti (CGNAT cozumu): erisilemeyen arkadaslara mesaj, dosya ve sesli arama artik ulasiyor. Baglanti kurulamazsa karsi taraf otomatik geri baglanir; veri yine dogrudan P2P gider.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.27/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.27/OguzBeyTR-P2P-tek.exe"
+  "version": "1.28",
+  "notlar": "v1.28 - Peer relay (koprü) + uctan uca sifreleme: iki taraf da erisilemez olsa bile (ikisi de CGNAT/mobil internet) mesaj, dosya ve arama artik ulasir. Erisilebilir bir arkadas otomatik koprü olur; icerik uctan uca sifrelidir, koprü olan kisi goremez. Gizlilik icin X25519 + AES-GCM eklendi.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.28/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.28/OguzBeyTR-P2P-tek.exe"
 }
