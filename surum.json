@@ -1,6 +1,6 @@
 {
-  "version": "1.29",
-  "notlar": "v1.29 - Ses kalitesi iyilestirmeleri: (1) Ses Ayarlari'nda kalite secici (Dusuk/Normal/Yuksek/Cok yuksek). (2) Otomatik ses seviyesi (AGC) - kisik mikrofonu dengeler. (3) Paket kaybina dayaniklilik (Opus FEC + kayip telafisi/PLC) - internet dalgalansa bile ses daha az kopar. (4) Adaptif jitter buffer - takilma/cizirti azalir. (5) Sessizlikte internet tasarrufu (DTX). Eski surumlerle aramalar sorunsuz calismaya devam eder.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.29/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.29/OguzBeyTR-P2P-tek.exe"
+  "version": "1.30",
+  "notlar": "v1.30 - Ekran paylasimi: sesli gorusme sirasinda 'Ekrani Paylas' dugmesiyle ekranini arkadasina gosterebilirsin. Karsi tarafta otomatik izleme penceresi acilir. Ekran degismezse internet harcanmaz (durgun ekranda ~0 bant). Ayri baglanti kullanir, ses akisini bozmaz; ulasilamayan arkadasa koprü uzerinden giderse uctan uca sifrelidir.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.30/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.30/OguzBeyTR-P2P-tek.exe"
 }
