@@ -1,6 +1,6 @@
 {
-  "version": "1.30",
-  "notlar": "v1.30 - Ekran paylasimi: sesli gorusme sirasinda 'Ekrani Paylas' dugmesiyle ekranini arkadasina gosterebilirsin. Karsi tarafta otomatik izleme penceresi acilir. Ekran degismezse internet harcanmaz (durgun ekranda ~0 bant). Ayri baglanti kullanir, ses akisini bozmaz; ulasilamayan arkadasa koprü uzerinden giderse uctan uca sifrelidir.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.30/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.30/OguzBeyTR-P2P-tek.exe"
+  "version": "1.31",
+  "notlar": "v1.31 - Ekran paylasimi gelismeleri: (1) FPS secici (5-20) ve kalite secici Ses/Ekran Ayarlari'nda. (2) Ekran sesi de paylasilir (sistem sesi/oyun/muzik karsi tarafa gider - Windows WASAPI). (3) Fare imleci gorunur. Izleyici penceresinde ses ac/kapa dugmesi. Ekran sesi Opus stereo, sifreli yollarda uctan uca gizli. Eski surumle ekran paylasimi yine calisir (ses olmadan).",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.31/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.31/OguzBeyTR-P2P-tek.exe"
 }
