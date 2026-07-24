@@ -1,6 +1,6 @@
 {
-  "version": "1.28",
-  "notlar": "v1.28 - Peer relay (koprü) + uctan uca sifreleme: iki taraf da erisilemez olsa bile (ikisi de CGNAT/mobil internet) mesaj, dosya ve arama artik ulasir. Erisilebilir bir arkadas otomatik koprü olur; icerik uctan uca sifrelidir, koprü olan kisi goremez. Gizlilik icin X25519 + AES-GCM eklendi.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.28/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.28/OguzBeyTR-P2P-tek.exe"
+  "version": "1.29",
+  "notlar": "v1.29 - Ses kalitesi iyilestirmeleri: (1) Ses Ayarlari'nda kalite secici (Dusuk/Normal/Yuksek/Cok yuksek). (2) Otomatik ses seviyesi (AGC) - kisik mikrofonu dengeler. (3) Paket kaybina dayaniklilik (Opus FEC + kayip telafisi/PLC) - internet dalgalansa bile ses daha az kopar. (4) Adaptif jitter buffer - takilma/cizirti azalir. (5) Sessizlikte internet tasarrufu (DTX). Eski surumlerle aramalar sorunsuz calismaya devam eder.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.29/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.29/OguzBeyTR-P2P-tek.exe"
 }
