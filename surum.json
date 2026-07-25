@@ -1,6 +1,6 @@
 {
-  "version": "1.33",
-  "notlar": "Yeni Discord tarzi arayuz + bildirim sesleri. Sohbet yeniden tasarlandi (avatarlar, gruplanmis mesajlar, gun ayraclari, okunmamis rozeti, arama kutusu). Yeni ust gezinme cubugu, yeni gorusme paneli ve nabiz efektli gelen arama ekrani. Sentetik ses efektleri: zil sesi, mesaj, goruse giris/cikis, mik/kulaklik, ekran paylasimi, hata. Ses Ayarlari'na bildirim sesi bolumu (seviye + tek tek ac/kapa + dinle). Pencere boyutu ve son sohbet hatirlaniyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.33/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.33/OguzBeyTR-P2P-tek.exe"
+  "version": "1.34",
+  "notlar": "Tamamen yeni tasarim (yeni palet, Rubik/Poppins yazi tipi, koseli animasyonlu dugmeler, uygulamanin kendi ust cubugu, buyuk acilis boyutu). GRUP ARAMASI (cok kisili, mix-minus karistirma - kimse kendini duymaz). Ekran paylasiminda H.264: 30 ve 60 FPS secenekleri, 60 FPS'te bile ~4 Mbit/s (JPEG'de 50+ idi). Ekran sesi kesilmesi ve karsi tarafin kendi sesini duymasi COZULDU (gercek yanki giderici, -25 dB). Profil fotografi. Arkadas ekleme artik ISTEK sistemi (kabul/red). Rahatsiz Etmeyin + Bosta + Gorunmez durumlari. Sohbete GIF gonderme. Indirici: YouTube Shorts/youtu.be linkleri ve Instagram dosyalari artik Premiere Pro'ya atilabiliyor. NOT: H.264 icin video kutuphanesi eklendigi icin indirme boyutu buyudu.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.34/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.34/OguzBeyTR-P2P-tek.exe"
 }
