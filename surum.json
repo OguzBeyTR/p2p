@@ -1,6 +1,6 @@
 {
-  "version": "1.32",
-  "notlar": "v1.32 - Ekran paylasimi optimizasyonu: (1) Daha az kasar - hizli goruntu isleme (BILINEAR) + dusuk/orta kalitede otomatik daha kucuk cozunurluk. (2) Ses artik kesilmiyor - ses paketleri video karesini beklemeden oncelikli gonderilir + alicida ses tamponu (jitter buffer). (3) Yanki giderme - ekran sesi paylasirken karsi taraf artik kendi sesini duymuyor (gorusme sesi sistem sesinden otomatik ayiklanir).",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.32/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.32/OguzBeyTR-P2P-tek.exe"
+  "version": "1.33",
+  "notlar": "Yeni Discord tarzi arayuz + bildirim sesleri. Sohbet yeniden tasarlandi (avatarlar, gruplanmis mesajlar, gun ayraclari, okunmamis rozeti, arama kutusu). Yeni ust gezinme cubugu, yeni gorusme paneli ve nabiz efektli gelen arama ekrani. Sentetik ses efektleri: zil sesi, mesaj, goruse giris/cikis, mik/kulaklik, ekran paylasimi, hata. Ses Ayarlari'na bildirim sesi bolumu (seviye + tek tek ac/kapa + dinle). Pencere boyutu ve son sohbet hatirlaniyor.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.33/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.33/OguzBeyTR-P2P-tek.exe"
 }
