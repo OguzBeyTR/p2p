@@ -1,6 +1,6 @@
 {
-  "version": "1.34",
-  "notlar": "Tamamen yeni tasarim (yeni palet, Rubik/Poppins yazi tipi, koseli animasyonlu dugmeler, uygulamanin kendi ust cubugu, buyuk acilis boyutu). GRUP ARAMASI (cok kisili, mix-minus karistirma - kimse kendini duymaz). Ekran paylasiminda H.264: 30 ve 60 FPS secenekleri, 60 FPS'te bile ~4 Mbit/s (JPEG'de 50+ idi). Ekran sesi kesilmesi ve karsi tarafin kendi sesini duymasi COZULDU (gercek yanki giderici, -25 dB). Profil fotografi. Arkadas ekleme artik ISTEK sistemi (kabul/red). Rahatsiz Etmeyin + Bosta + Gorunmez durumlari. Sohbete GIF gonderme. Indirici: YouTube Shorts/youtu.be linkleri ve Instagram dosyalari artik Premiere Pro'ya atilabiliyor. NOT: H.264 icin video kutuphanesi eklendigi icin indirme boyutu buyudu.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.34/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.34/OguzBeyTR-P2P-tek.exe"
+  "version": "1.35",
+  "notlar": "Detayli PROFIL ekrani (gorunen ad, hakkimda yazisi, kart rengi, profil fotosu, durum) + arkadas PROFIL KARTI. Konusurken avatarin etrafinda YESIL HALKA (Discord gibi; grup aramasinda katilimci seridi). Ayri ARKADAS EKLEME ekrani (istek gonder + gelen/giden istekler bir arada). BAGLANTI DUZELTMELERI: port kullanimdaysa artik baska port deneniyor (eskiden dinleyici hic acilmiyordu), sinyal yoklayici dinleyiciden bagimsiz calisiyor (ters baglanti olmuyordu -> bazi arkadaslarla hicbir sey calismiyordu), acilista UPnP ile port otomatik aciliyor. Yeni BAGLANTI TESTI araci: Arkadaslar sekmesinde bir arkadas secip sorunun tam olarak nerede oldugunu gosterir.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.35/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.35/OguzBeyTR-P2P-tek.exe"
 }
