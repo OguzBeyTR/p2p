@@ -1,6 +1,6 @@
 {
-  "version": "1.36",
-  "notlar": "ARAYUZ TAMAMEN HTML OLDU (pywebview + WebView2). Discord gibi: sol ikon rayi, sohbet listesi, uye listesi, mesaj gruplama, hover islemleri, gercek animasyonlar, renkli emoji, akici GIF. Artik AYRI PENCERE YOK: profil, ayarlar, arkadas ekleme, GIF secici, baglanti testi, profil karti hepsi program icinde acilir (sadece gelen arama bildirimi ayri kalir). Acilista kucuk YUKLEME EKRANI (hesap/arkadas/mesaj yuklenirken). Gorusme sirasinda BUYUK Discord tarzi arama ekrani (buyuk avatarlar + konusma halkasi). Ayarlar tek ekranda toplandi (mikrofon modu, bas-konus tusu, ses kalitesi, gurultu engelleme, cihaz secimi, ekran FPS/kalite/ses/imlec, tum bildirim sesleri + seviye, Tenor anahtari, otomatik baslatma, kopru olma). Profil ekrani detaylandi: canli onizleme, gorunen ad, hakkimda, kart rengi, fotograf. Sesler yenilendi (daha yumusak, oktav parlaklik + kisa kuyruk). PROFIL FOTOSU SENKRONU duzeltildi: artik karsilikli otomatik esitleniyor. WebView2 yoksa program eski arayuzle aciliyor (her bilgisayarda calisir); --tk ile de zorlanabilir.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.36/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.36/OguzBeyTR-P2P-tek.exe"
+  "version": "1.37",
+  "notlar": "ACIL DUZELTME: v1.36'da bazen ESKI arayuz aciliyor, hatta ikisi birden goruluyordu. Iki sebep vardi: (1) HTML yolu tek-ornek kontrolunu atliyordu, ikinci kopya ikinci pencere aciyordu; (2) pythonnet dosyalari pakete tam girmedigi icin 'Cannot find win-arm64' hatasi olusup program eski Tk arayuze dusuyordu. Artik: tek-ornek kontrolu ortak (ikinci kopya mevcut pencereyi one getirip kapanir), HTML penceresi bir kez acildiysa ASLA eski arayuze dusulmez, pythonnet/clr_loader dosyalari pakete eklendi. Ayrica HTML penceresinin basligi 'OguzBeyTR P2P' oldu (eski panelden ayirt edilebilsin).",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.37/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.37/OguzBeyTR-P2P-tek.exe"
 }
