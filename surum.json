@@ -1,7 +1,7 @@
 {
-  "version": "1.47",
-  "notlar": "SUNUCU DEPOSU. Mesajlar artik sunucuda SIFRELI olarak saklaniyor: format atsan, bilgisayar degistirsen bile giris yapinca tum sohbet gecmisin geri iniyor. Sifreleme anahtari hesap sifrenden turetiliyor ve sunucudaki kasada sarili duruyor -- sunucu mesajlari OKUYAMAZ. Profil ve fotograf da sunucuda: arkadasin kapaliyken bile adi ve fotografi gorunuyor. Bulusma sunucusu adresi artik guncellemeyle otomatik dagitiliyor, elle girmeye gerek yok (Ayarlardan degistirirsen senin yazdigin kalir). Dosya aktarimi eskisi gibi tamamen P2P.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.47/OguzBeyTR-P2P.zip",
+  "version": "1.48",
+  "notlar": "ONEMLI DUZELTME + MIMARI. 1) v1.47'de programin Turkce metinleri bozuk cikiyordu (surum yukseltirken kodlama bozulmus) - tamamen onarildi, bir daha olmamasi icin kodlama denetimi eklendi. 2) Tepkiler artik ASLA duz mesaj olarak gorunmuyor; eski surumlerden gecmise dusmus bozuk tepki satirlari acilista otomatik temizleniyor ve gercek rozete cevriliyor. 3) Aramalar ve sohbetler artik SUNUCU uzerinden gidiyor (sunucuya ulasilamazsa yine P2P'ye duser); DOSYA AKTARIMI tamamen P2P kaliyor. 4) GUVENLIK: bulusma sunucusunda kayit ve arama artik hesap dogrulamasi istiyor - adresi bilen biri baskasi gibi kaydolamiyor; ayrica IP basina hiz siniri eklendi. 5) Sunucu adresi ayarlardan gizlendi, yalnizca Bagli/Bagli degil durumu gorunuyor.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.48/OguzBeyTR-P2P.zip",
   "sunucu": "79.76.111.255:52600",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.47/OguzBeyTR-P2P-tek.exe"
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.48/OguzBeyTR-P2P-tek.exe"
 }
