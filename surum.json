@@ -1,6 +1,7 @@
 {
-  "version": "1.46",
-  "notlar": "BULUSMA SUNUCUSU DESTEGI (istege bagli). Iki taraf da modem ayari yapamadiginda mesaj ve sesli arama artik kendi kucuk sunucun uzerinden gecebiliyor; sunucudan gecen her sey UCTAN UCA SIFRELI, sunucu icerigi okuyamaz. Yonlendirme kurali: DOSYA her zaman dogrudan P2P (sunucu asla kullanilmaz), SES once P2P olmazsa sunucu, MESAJ ve PROFIL once sunucu olmazsa P2P. Sunucu adresi Ayarlar bolumunden girilir; bos birakilirsa ya da sunucuya ulasilamazsa program eskisi gibi calisir. Sunucu kodu ve Oracle Cloud kurulum kilavuzu pakete eklendi (sunucu klasoru). Ayrica arama ekraninda kalite gostergesi ve mesaj listesi duzeltmeleri korundu.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.46/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.46/OguzBeyTR-P2P-tek.exe"
+  "version": "1.47",
+  "notlar": "SUNUCU DEPOSU. Mesajlar artik sunucuda SIFRELI olarak saklaniyor: format atsan, bilgisayar degistirsen bile giris yapinca tum sohbet gecmisin geri iniyor. Sifreleme anahtari hesap sifrenden turetiliyor ve sunucudaki kasada sarili duruyor -- sunucu mesajlari OKUYAMAZ. Profil ve fotograf da sunucuda: arkadasin kapaliyken bile adi ve fotografi gorunuyor. Bulusma sunucusu adresi artik guncellemeyle otomatik dagitiliyor, elle girmeye gerek yok (Ayarlardan degistirirsen senin yazdigin kalir). Dosya aktarimi eskisi gibi tamamen P2P.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.47/OguzBeyTR-P2P.zip",
+  "sunucu": "79.76.111.255:52600",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.47/OguzBeyTR-P2P-tek.exe"
 }
