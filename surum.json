@@ -1,6 +1,6 @@
 {
-  "version": "1.42",
-  "notlar": "GUNCELLEME SISTEMI BASTAN YAZILDI. Sorun: Guncelle dugmesi geri bildirimi sadece kucuk bildirim kartiyla veriyordu ve RAHATSIZ ETMEYIN modunda tamamen susturuluyordu - bu yuzden basinca hicbir sey olmuyor gibi gorunuyordu. Artik: dugmeye basinca GORUNUR PENCERE aciliyor (su anki surum / sunucudaki surum yan yana), her adim yaziliyor (denetleniyor / guncelsin / yeni surum var + surum notlari / indiriliyor %% ilerleme / kuruldu), guncelleme yoksa 'Guncelsin' diyor, varsa 'Simdi Guncelle' dugmesi cikiyor, kurulamazsa 'Tarayicida Indir' seceneği veriliyor. Kritik bildirimler artik Rahatsiz Etmeyin modunda da gorunuyor. HER ACILISTA otomatik kontrol (6 sn sonra) + 2 saatte bir. TEPSI SIMGESI GERI GELDI: HTML arayuze gecerken hic tasinmamisti, pencereyi kapatinca programa donulemiyordu; artik simge + sag tik menusu (Goster / Bildirimleri sustur / Cikis) var. PROGRAM LOGOSU: arayuzdeki cizim yerine gercek program ikonu kullaniliyor (baslik cubugu, acilis ekrani, giris ekrani, tepsi). Ayrica bazi kabuklardan baslatinca olusan 'Cannot find win-arm64' hatasina karsi mimari normallestirmesi eklendi. KURULUM EXE'si de yayinlaniyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.42/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.42/OguzBeyTR-P2P-tek.exe"
+  "version": "1.43",
+  "notlar": "Guncelleme dongusu bugu duzeltildi (Defender izin yardimcisi + acilis gunlugu). Mesaj ustundeki Yanitla / Tepki / Daha dugmeleri artik calisiyor (alinti, emoji tepkileri, sabitleme, kopyalama, bende sil). Grup aramasi onarildi: davetler artik sesi bekletmiyor, host ayrilinca gorusme devam ediyor, kalabalikta bitrate ayarlaniyor, katilamayan uye bildiriliyor.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.43/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.43/OguzBeyTR-P2P-tek.exe"
 }
