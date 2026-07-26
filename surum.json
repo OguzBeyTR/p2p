@@ -1,6 +1,6 @@
 {
-  "version": "1.43",
-  "notlar": "Guncelleme dongusu bugu duzeltildi (Defender izin yardimcisi + acilis gunlugu). Mesaj ustundeki Yanitla / Tepki / Daha dugmeleri artik calisiyor (alinti, emoji tepkileri, sabitleme, kopyalama, bende sil). Grup aramasi onarildi: davetler artik sesi bekletmiyor, host ayrilinca gorusme devam ediyor, kalabalikta bitrate ayarlaniyor, katilamayan uye bildiriliyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.43/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.43/OguzBeyTR-P2P-tek.exe"
+  "version": "1.44",
+  "notlar": "Arama deneyimi yenilendi. Karsi taraf acmasa bile Araniyor paneli + sure + Iptal dugmesi gorunuyor; gorusme sohbetin ustunde kalici seritte de duruyor. Aranan kisi sohbet listesinde ve grup uye listesinde mavi halka ile isaretleniyor. Cevapsiz arama suresi 15 sn yerine 60 sn. Grup aramasinda uyeye sag tik: Aramayi birak / Tekrar ara. Baglanti kalitesi gostergesi eklendi, kotulesince bitrate otomatik dusuyor. Ayarlarda Mikrofon Testi (kendi sesini geri dinle + seviye cubugu). Dosya gonder ekranindaki surukle-birak alani artik calisiyor.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.44/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.44/OguzBeyTR-P2P-tek.exe"
 }
