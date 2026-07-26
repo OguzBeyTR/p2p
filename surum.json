@@ -1,6 +1,6 @@
 {
-  "version": "1.40",
-  "notlar": "KRITIK: OTOMATIK GUNCELLEME GERI GELDI. HTML arayuze gecerken (v1.36) otomatik guncelleme kontrolu tasinmamisti - eski Tk arayuzunde acilista calisiyordu, yeni arayuzde hic calismiyordu. Bu yuzden v1.36-v1.39 kullanicilari guncelleme almiyordu. Artik: acilistan 12 sn sonra ve 3 saatte bir kontrol edilir, yeni surum varsa dosya aktarimi/gorusme yoksa sessizce indirilip kurulur (aktarim varsa ertelenir). Ust cubuktaki Guncelle dugmesi yeni surum varken YESIL yanip soner ve 'v1.xx hazir' yazar. NOT: bu surume bir kez ELLE gecmek gerekiyor; sonraki guncellemeler otomatik gelecek.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.40/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.40/OguzBeyTR-P2P-tek.exe"
+  "version": "1.41",
+  "notlar": "HTML arayuze TASINMAYAN her sey tamamlandi. YENI: GIRIS/KAYIT EKRANI (v1.36-1.40'ta hic yoktu - yeni kurulumda giris yapilamiyordu!), Cikis yap, 'Beni Ekle Kodu' ve 'Kod ile Ekle' (hesapsiz kullanim), kodu panoya kopyala. DUZELTILDI: dosya gonderme eski Tk widget'ina bagliydi ve calismiyordu - artik motoru dogrudan cagiriyor (secili arkadaslara coklu gonderim, klasor dahil). Dosya alma modu, gelen/indirilenler klasoru, video/MP3 indirici, ilerleme cubuklari test edildi. Acilis ekrani giris yapilmamissa beklemeden giris ekranina geciyor. AYRICA: artik KURULUM EXE'si de yayinlaniyor (OguzBeyTR-P2P-Kurulum.exe) - v1.26'dan beri ilk kez.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.41/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.41/OguzBeyTR-P2P-tek.exe"
 }
