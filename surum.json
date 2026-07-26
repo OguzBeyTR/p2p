@@ -1,6 +1,6 @@
 {
-  "version": "1.37",
-  "notlar": "ACIL DUZELTME: v1.36'da bazen ESKI arayuz aciliyor, hatta ikisi birden goruluyordu. Iki sebep vardi: (1) HTML yolu tek-ornek kontrolunu atliyordu, ikinci kopya ikinci pencere aciyordu; (2) pythonnet dosyalari pakete tam girmedigi icin 'Cannot find win-arm64' hatasi olusup program eski Tk arayuze dusuyordu. Artik: tek-ornek kontrolu ortak (ikinci kopya mevcut pencereyi one getirip kapanir), HTML penceresi bir kez acildiysa ASLA eski arayuze dusulmez, pythonnet/clr_loader dosyalari pakete eklendi. Ayrica HTML penceresinin basligi 'OguzBeyTR P2P' oldu (eski panelden ayirt edilebilsin).",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.37/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.37/OguzBeyTR-P2P-tek.exe"
+  "version": "1.38",
+  "notlar": "Tasarim kimligi: Discord'dan gorsel olarak ayrildi. Sohbet artik KABARCIK (bubble) - kendi mesajlarin sagda mor gradient, karsininki solda. Cam efektli paneller, yuvarlak kartli sohbet listesi (sol vurgu cizgisi), gradient sol ray, hareketli arka plan. Cok daha fazla animasyon: mesaj giris animasyonu, gorunum gecisleri, nabiz atan cevrimici noktasi, yaylanan dugmeler, donen yukleme halkasi, animasyonlu yaziyor gostergesi. DOSYA GONDERME PANELI: sol raydan acilir, artik KIME gonderilecegini kutucuklarla seciyorsun (coklu secim), surukle-birak ve ilerleme cubuklari. Islevsel olarak Discord ne yapiyorsa aynisi.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.38/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.38/OguzBeyTR-P2P-tek.exe"
 }
