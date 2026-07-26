@@ -1,6 +1,6 @@
 {
-  "version": "1.39",
-  "notlar": "EKRAN SESI DUZELDI: HTML arayuze gecerken izleyici penceresi sadece VIDEO cozuyordu, ses kuyrugu hic dinlenmiyordu - bu yuzden ekran sesi HIC gelmiyordu. Artik Opus cozucu + jitter buffer ile caliniyor, izleyici penceresinde 'Ses Acik/Kapali' dugmesi var. PENCERE BOYUTLANDIRMA geri geldi: kenarlardan ve sag alt kosedeki tutamaktan boyutlandirma (Windows'un kendi natif boyutlandirmasi kullaniliyor, snap de calisir), baslik cubugundan tut-tasi da natif. SURUM ve GUNCELLE dugmesi ust cubukta: surum yazisi + tiklayinca guncelleme denetleyip indiren buton.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.39/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.39/OguzBeyTR-P2P-tek.exe"
+  "version": "1.40",
+  "notlar": "KRITIK: OTOMATIK GUNCELLEME GERI GELDI. HTML arayuze gecerken (v1.36) otomatik guncelleme kontrolu tasinmamisti - eski Tk arayuzunde acilista calisiyordu, yeni arayuzde hic calismiyordu. Bu yuzden v1.36-v1.39 kullanicilari guncelleme almiyordu. Artik: acilistan 12 sn sonra ve 3 saatte bir kontrol edilir, yeni surum varsa dosya aktarimi/gorusme yoksa sessizce indirilip kurulur (aktarim varsa ertelenir). Ust cubuktaki Guncelle dugmesi yeni surum varken YESIL yanip soner ve 'v1.xx hazir' yazar. NOT: bu surume bir kez ELLE gecmek gerekiyor; sonraki guncellemeler otomatik gelecek.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.40/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.40/OguzBeyTR-P2P-tek.exe"
 }
