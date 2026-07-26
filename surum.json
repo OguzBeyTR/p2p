@@ -1,6 +1,6 @@
 {
-  "version": "1.38",
-  "notlar": "Tasarim kimligi: Discord'dan gorsel olarak ayrildi. Sohbet artik KABARCIK (bubble) - kendi mesajlarin sagda mor gradient, karsininki solda. Cam efektli paneller, yuvarlak kartli sohbet listesi (sol vurgu cizgisi), gradient sol ray, hareketli arka plan. Cok daha fazla animasyon: mesaj giris animasyonu, gorunum gecisleri, nabiz atan cevrimici noktasi, yaylanan dugmeler, donen yukleme halkasi, animasyonlu yaziyor gostergesi. DOSYA GONDERME PANELI: sol raydan acilir, artik KIME gonderilecegini kutucuklarla seciyorsun (coklu secim), surukle-birak ve ilerleme cubuklari. Islevsel olarak Discord ne yapiyorsa aynisi.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.38/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.38/OguzBeyTR-P2P-tek.exe"
+  "version": "1.39",
+  "notlar": "EKRAN SESI DUZELDI: HTML arayuze gecerken izleyici penceresi sadece VIDEO cozuyordu, ses kuyrugu hic dinlenmiyordu - bu yuzden ekran sesi HIC gelmiyordu. Artik Opus cozucu + jitter buffer ile caliniyor, izleyici penceresinde 'Ses Acik/Kapali' dugmesi var. PENCERE BOYUTLANDIRMA geri geldi: kenarlardan ve sag alt kosedeki tutamaktan boyutlandirma (Windows'un kendi natif boyutlandirmasi kullaniliyor, snap de calisir), baslik cubugundan tut-tasi da natif. SURUM ve GUNCELLE dugmesi ust cubukta: surum yazisi + tiklayinca guncelleme denetleyip indiren buton.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.39/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.39/OguzBeyTR-P2P-tek.exe"
 }
