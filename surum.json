@@ -1,6 +1,6 @@
 {
-  "version": "1.45",
-  "notlar": "ACIL DUZELTMELER. 1) Sohbet listesi bosalmasi: mesaji tepki/sabit almis bir sohbet varsa arayuz durumu her turda hata veriyordu, bu yuzden liste guncellenmiyor ve program acilis ekraninda takiliyordu -- sohbetler silinmis gibi gorunuyordu. Mesajlar hep diskteydi, hicbir sey kaybolmadi. 2) Sohbetler artik sunucuya ulasilamasa bile gecmisten gosteriliyor (arsiv rozeti) ve arkadas/grup listesi yerel olarak onbelleklenip acilista hemen geliyor. 3) chat.json artik atomik yaziliyor + yedekleniyor; guncelleme sirasinda bozulsa bile geri yukleniyor. 4) Mesaj animasyonu: liste sadece gercekten degistiginde ciziliyor, animasyon yalnizca YENI mesajda oynuyor, yukari kaydirilmisken sohbet basa ziplamiyor. 5) Karsi taraf aramayi acmadan once arama ekranindaki dugmeler calismiyordu; artik Iptal var. 6) Program artik sohbet listesi hazir olmadan acilmiyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.45/OguzBeyTR-P2P.zip",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.45/OguzBeyTR-P2P-tek.exe"
+  "version": "1.46",
+  "notlar": "BULUSMA SUNUCUSU DESTEGI (istege bagli). Iki taraf da modem ayari yapamadiginda mesaj ve sesli arama artik kendi kucuk sunucun uzerinden gecebiliyor; sunucudan gecen her sey UCTAN UCA SIFRELI, sunucu icerigi okuyamaz. Yonlendirme kurali: DOSYA her zaman dogrudan P2P (sunucu asla kullanilmaz), SES once P2P olmazsa sunucu, MESAJ ve PROFIL once sunucu olmazsa P2P. Sunucu adresi Ayarlar bolumunden girilir; bos birakilirsa ya da sunucuya ulasilamazsa program eskisi gibi calisir. Sunucu kodu ve Oracle Cloud kurulum kilavuzu pakete eklendi (sunucu klasoru). Ayrica arama ekraninda kalite gostergesi ve mesaj listesi duzeltmeleri korundu.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.46/OguzBeyTR-P2P.zip",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.46/OguzBeyTR-P2P-tek.exe"
 }
