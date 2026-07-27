@@ -1,7 +1,7 @@
 {
-  "version": "1.48",
-  "notlar": "ONEMLI DUZELTME + MIMARI. 1) v1.47'de programin Turkce metinleri bozuk cikiyordu (surum yukseltirken kodlama bozulmus) - tamamen onarildi, bir daha olmamasi icin kodlama denetimi eklendi. 2) Tepkiler artik ASLA duz mesaj olarak gorunmuyor; eski surumlerden gecmise dusmus bozuk tepki satirlari acilista otomatik temizleniyor ve gercek rozete cevriliyor. 3) Aramalar ve sohbetler artik SUNUCU uzerinden gidiyor (sunucuya ulasilamazsa yine P2P'ye duser); DOSYA AKTARIMI tamamen P2P kaliyor. 4) GUVENLIK: bulusma sunucusunda kayit ve arama artik hesap dogrulamasi istiyor - adresi bilen biri baskasi gibi kaydolamiyor; ayrica IP basina hiz siniri eklendi. 5) Sunucu adresi ayarlardan gizlendi, yalnizca Bagli/Bagli degil durumu gorunuyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.48/OguzBeyTR-P2P.zip",
+  "version": "1.49",
+  "notlar": "TOPLULUK SUNUCULARI (Discord tarzi). Artik kendi toplulugunu kurup arkadaslarini davet kodu ile cagirabilirsin. Metin ve ses kanallari, kurucu/yonetici/uye rolleri, uyeye sag tik ile yonetici yapma ya da topluluktan cikarma. Topluluklar tamamen sunucu bazli calisir: her uye ayni gecmisi gorur, sonradan katilan da onceki mesajlari okur. Sol rayda toplulugun simgesi gorunur, + ile yeni topluluk kurulur ya da davet koduyla katilinir. NOT: ozel mesajlar (DM) uctan uca sifreli kalir; topluluk kanallari ise -- Discord'da oldugu gibi -- sunucuda acik saklanir, cunku sonradan katilan herkesin gecmisi okuyabilmesi gerekiyor.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.49/OguzBeyTR-P2P.zip",
   "sunucu": "79.76.111.255:52600",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.48/OguzBeyTR-P2P-tek.exe"
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.49/OguzBeyTR-P2P-tek.exe"
 }
