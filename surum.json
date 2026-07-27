@@ -1,7 +1,7 @@
 {
-  "version": "1.51",
-  "notlar": "SES KANALLARI CALISIYOR. Topluluktaki bir ses kanalina tiklayinca artik gercekten katiliyorsun: kanaldaki diger uyeler cagriliyor, ilk giren host oluyor, host cikarsa gorusme devam ediyor. Ses kanali adi gorusme panelinde 'Topluluk - Kanal' seklinde gorunuyor. Metin kanallari eskisi gibi tiklayinca aciliyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.51/OguzBeyTR-P2P.zip",
+  "version": "1.52",
+  "notlar": "SES KANALI DUZELTMESI (onemli). v1.51'de topluluktaki ses kanalina tiklayinca topluluktaki HERKES araniyordu -- metin kanalina girdigini sanirken arkadasini caldiriyordun. Artik Discord gibi calisiyor: ses kanalina GIRERSIN, kimse caldirilmaz. Kanalda zaten biri varsa sessizce ona baglanirsin, yoksa tek basina beklersin; sonradan biri girince ses kendiliginden acilir. Kanalin altinda icinde kim varsa avatarlariyla gorunuyor, girdigin kanal yesil isaretleniyor, tekrar tiklayinca cikiyorsun.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.52/OguzBeyTR-P2P.zip",
   "sunucu": "79.76.111.255:52600",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.51/OguzBeyTR-P2P-tek.exe"
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.52/OguzBeyTR-P2P-tek.exe"
 }
