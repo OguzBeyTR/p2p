@@ -1,7 +1,7 @@
 {
-  "version": "1.49",
-  "notlar": "TOPLULUK SUNUCULARI (Discord tarzi). Artik kendi toplulugunu kurup arkadaslarini davet kodu ile cagirabilirsin. Metin ve ses kanallari, kurucu/yonetici/uye rolleri, uyeye sag tik ile yonetici yapma ya da topluluktan cikarma. Topluluklar tamamen sunucu bazli calisir: her uye ayni gecmisi gorur, sonradan katilan da onceki mesajlari okur. Sol rayda toplulugun simgesi gorunur, + ile yeni topluluk kurulur ya da davet koduyla katilinir. NOT: ozel mesajlar (DM) uctan uca sifreli kalir; topluluk kanallari ise -- Discord'da oldugu gibi -- sunucuda acik saklanir, cunku sonradan katilan herkesin gecmisi okuyabilmesi gerekiyor.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.49/OguzBeyTR-P2P.zip",
+  "version": "1.50",
+  "notlar": "UC DUZELTME. 1) Gorusmeden cikinca ekran SIYAH kaliyordu, sohbete donmuyordu - artik gorusme bitince kendiliginden sohbete donuyor. 2) Toplulukta metin kanalinda 'Sesli Ara' dugmesi gorunuyordu, anlamsizdi - kaldirildi (ses kanallarina katilma ayri olarak geliyor). 3) Yeni mesaj gelince liste her zaman en alta inmiyordu; artik dibe iniyor, resimler yuklendikten sonra da dibe iniyor. Gecmisi okumak icin yukari kaydirdiysan yerinde birakiliyor.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.50/OguzBeyTR-P2P.zip",
   "sunucu": "79.76.111.255:52600",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.49/OguzBeyTR-P2P-tek.exe"
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.50/OguzBeyTR-P2P-tek.exe"
 }
