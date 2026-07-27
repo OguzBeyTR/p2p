@@ -1,7 +1,7 @@
 {
-  "version": "1.52",
-  "notlar": "SES KANALI DUZELTMESI (onemli). v1.51'de topluluktaki ses kanalina tiklayinca topluluktaki HERKES araniyordu -- metin kanalina girdigini sanirken arkadasini caldiriyordun. Artik Discord gibi calisiyor: ses kanalina GIRERSIN, kimse caldirilmaz. Kanalda zaten biri varsa sessizce ona baglanirsin, yoksa tek basina beklersin; sonradan biri girince ses kendiliginden acilir. Kanalin altinda icinde kim varsa avatarlariyla gorunuyor, girdigin kanal yesil isaretleniyor, tekrar tiklayinca cikiyorsun.",
-  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.52/OguzBeyTR-P2P.zip",
-  "sunucu": "79.76.111.255:52600",
-  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.52/OguzBeyTR-P2P-tek.exe"
+  "version": "1.53",
+  "notlar": "ESKI ARAYUZE DONUS. Bu uygulama yeniden SAF DOSYA PAYLASIMINA (P2P) donuyor: program dogrudan bilgisayardan bilgisayara calisiyor, arada sunucu YOK. Arayuz de HTML oncesi, uzun sure kararli calismis panele geri alindi. v1.36-v1.52 arasindaki motor iyilestirmeleri (guncelleme guvenlik agi, Defender yardimcisi, ses kalitesi, grup aramasi duzeltmeleri) AYNEN duruyor. Sohbet, sesli gorusme ve topluluk ozellikleri yeni bir uygulamaya tasiniyor; o hazir olunca ayrica duyurulacak.",
+  "url_zip": "https://github.com/OguzBeyTR/p2p/releases/download/v1.53/OguzBeyTR-P2P.zip",
+  "sunucu": "-",
+  "url": "https://github.com/OguzBeyTR/p2p/releases/download/v1.53/OguzBeyTR-P2P-tek.exe"
 }
